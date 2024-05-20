@@ -10,7 +10,7 @@ setup(name='tap-youtube-analytics',
       py_modules=['tap_youtube_analytics'],
       install_requires=[
           'backoff==1.8.0',
-          'requests==2.24.0',
+          'requests==2.32.0',
           'pyhumps==1.6.1',
           'singer-python==5.9.0'
       ],
